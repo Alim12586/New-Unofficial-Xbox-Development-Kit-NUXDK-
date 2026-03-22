@@ -1,1 +1,1 @@
-# New-Unofficial-Xbox-Development-Kit-NUXDK-
+# New Unofficial Xbox Development Kit (NUXDK)
